@@ -1,0 +1,7 @@
+echo "__pycache__/
+*.pyc
+venv/
+.env" >> .gitignore
+git add .gitignore
+git commit -m "Added .gitignore for Python project"
+git push
