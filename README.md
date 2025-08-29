@@ -23,3 +23,7 @@ cd Advanced-OSINT-Toolkit
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
+
+🤝 Contributing
+
+Pull requests are welcome. For major changes, open an issue first to discuss what you would like to change.
